@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "Nome": "Ada Lovelace",
+        "Descricao": "Primeira programadora do mundo, nascida em 10 de dezembro de 1815, filha de Lord Byron.",
+        "Leia mais": "https://www.programaria.org/como-ada-lovelace-filha-de-lord-byron-se-tornou-primeira-programadora-mundo/"
+    },
+    {
+        "id": 2,
+        "Nome": "Grace Hopper",
+        "Descricao": "Cientista da computação, nascida em 9 de dezembro de 1906, inventou o primeiro compilador para uma linguagem de programação.",
+        "Leia mais": "https://pt.wikipedia.org/wiki/Grace_Hopper"
+    },
+    {
+        "id": 3,
+        "Nome": "Mary Kenneth Keller",
+        "Descricao": "Primeira mulher a ter um doutorado em ciência da computação, nascida em 17 de Dezembro de 1913.",
+        "Leia mais": "https://pt.wikipedia.org/wiki/Mary_Kenneth_Keller"
+    },
+    {
+        "id": 4,
+        "Nome": "Hedy Lamarr",
+        "Descricao": "Contribuiu para criação de um sistema de comunicação para as forças armadas americana na segunda guerra, nascida em 9 de novembro de 1914.",
+        "Leia mais": "https://pt.wikipedia.org/wiki/Hedy_Lamarr"
+    },
+    {
+        "id": 5,
+        "Nome": "Mary Winston Jackson",
+        "Descricao": "Primeira mulher negra engenheira da Nasa, teve sua história contada no filme Estrelas Além do Tempo.",
+        "Leia mais": "https://pt.wikipedia.org/wiki/Mary_Jackson"
+    },
+    {
+        "id": 6,
+        "Nome": "Radia Perlman",
+        "Descricao": "Cientista da computação, mais conhecida como mãe da internet, sua invenção mais conhecida é Spanning Tree Protocol, fundamental para a operação de bridges na internet.",
+        "Leia mais": "http://sbrc2015.ufes.br/?page_id=1338"
+    }
+    
+]
